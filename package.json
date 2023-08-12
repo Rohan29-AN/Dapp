@@ -1,0 +1,11 @@
+{
+  "name": "dapp",
+  "version": "1.0.0",
+  "description": "This application serves as a pratical exercise for the blockhain course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AN Rohan",
+  "license": "ISC"
+}
